@@ -1,2 +1,4 @@
 lion
+girafe
+chat
 chien
