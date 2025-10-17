@@ -2,3 +2,5 @@ lion
 girafe
 chat
 chien
+serpent
+lapin
