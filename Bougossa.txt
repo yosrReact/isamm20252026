@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hi it's me I am the problem 
-=======
 Holaa!!
->>>>>>> main
