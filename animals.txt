@@ -3,3 +3,4 @@ girafe
 chat
 chien
 serpent
+lapin
