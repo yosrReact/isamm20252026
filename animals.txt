@@ -1,4 +1,6 @@
 lion
+papillon
+tiger
 girafe
 chat
 chien
