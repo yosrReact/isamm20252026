@@ -1,4 +1,9 @@
 lion
+papillon
+tiger
 girafe
 chat
 chien
+serpent
+lapin
+aa
